@@ -1,4 +1,4 @@
-# WEEK 1 Hands-On Session
+# Nimith's Solution
 
 This folder contains all the required and extra solutions for  course and the foldiers are structured in this way :
 
