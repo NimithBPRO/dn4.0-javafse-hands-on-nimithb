@@ -43,6 +43,28 @@ Documentation/
 - **WEEK2_Extra_Solutions.docx**  
   Contains additional PL/SQL functions, enhanced test cases with parameterized testing, and bonus exercises on exception handling and logging best practices.
 
+### ✅ Week 3
+
+- `WEEK3_Mandatory_Solutions.docx`  
+  Includes all mandatory hands-on exercises from Spring Core and Spring Data JPA modules:
+  
+  - **Spring Core and Maven:**
+    - Configuring a Basic Spring Application using `@Configuration` and `@Bean`
+    - Implementing Dependency Injection via Constructor and Setter
+    - Creating and Configuring a Maven Project with Spring dependencies
+
+  - **Spring Data JPA with Hibernate:**
+    - Quick Start Example using `JpaRepository`
+    - CRUD Operations for Country Management
+    - Implementing Query Methods using method names
+    - Demonstrating Object/Relational Mapping (O/R Mapping)
+    - Writing Hibernate Query Language (HQL) and Native SQL Queries
+
+- `WEEK3_Extra_Solutions.docx`   
+  Includes:
+  - One-to-Many and Many-to-One relationship examples
+  - Enhanced Repository logic and Service Layer
+  - Bean Validation, Exception Handling, and Custom Error Responses
 
 ## Note
 
